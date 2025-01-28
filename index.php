@@ -1,5 +1,5 @@
 <?php
 
-echo "Online! Github";
+echo "Online! Github v1.1";
 
 ?>
